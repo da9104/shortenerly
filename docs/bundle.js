@@ -74,7 +74,7 @@ const renderRawResponse = res => {
 },{"../keys":2,"jquery":3}],2:[function(require,module,exports){
 module.exports = {
   // information to reach API
-  apiKey: "ac85ef2ba14f4557af51df09d1c83ef0",
+  apiKey: "a26dcd0fcd1643e7a9324d6b673263b8",
   url: "https://api.rebrandly.com/v1/links",
 };
 
